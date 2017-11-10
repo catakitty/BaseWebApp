@@ -14,7 +14,7 @@ p {
   font-size: 30px;
 }
 .form-control{
-	size:50%;
+	width:50%;
 }
 #doge-image img {
   height: 140px;
