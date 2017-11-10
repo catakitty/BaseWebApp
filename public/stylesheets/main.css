@@ -13,7 +13,9 @@ p {
   font-family: "Courier New";
   font-size: 30px;
 }
-
+.form-group{
+	margin: 10px;
+}
 #doge-image img {
   height: 140px;
   margin-top: 20px;
