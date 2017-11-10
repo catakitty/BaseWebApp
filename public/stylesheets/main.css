@@ -15,7 +15,7 @@ p {
 }
 .form-group{
 	margin: 10px;
-	float:right;
+	display: block;
 }
 #doge-image img {
   height: 140px;
