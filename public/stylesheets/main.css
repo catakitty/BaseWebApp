@@ -17,6 +17,9 @@ p {
 	width:50%;
 	margin:auto;
 }
+#profilePic{
+	height:5%;
+}
 #doge-image img {
   height: 140px;
   margin-top: 20px;
