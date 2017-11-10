@@ -22,6 +22,7 @@ p {
 }
 #post{
 	text-align:left;
+	position:absolute;
 	display: block;
 	margin:auto;
 }
