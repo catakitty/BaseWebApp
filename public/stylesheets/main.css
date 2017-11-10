@@ -20,6 +20,10 @@ p {
 #profilePic{
 	height:5%;
 }
+#post{
+	float:left;
+	margin:auto;
+}
 #doge-image img {
   height: 140px;
   margin-top: 20px;
